@@ -1,0 +1,24 @@
+{
+  "name": "ng2-router-active",
+  "version": "1.0.0",
+  "description": "Angular2 directive to toggle a custom active class on elements using [routerLink] (or parents) and @angular/router",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w",
+    "typings": "typings",
+    "postinstall": "typings install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "author": "MOSAICPRO <contact@mosaicpro.biz> (http://themeforest.net/user/mosaicpro/portfolio)",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/common": "2.0.0-rc.1",
+    "@angular/core": "2.0.0-rc.1",
+    "@angular/router": "2.0.0-rc.1",
+    "rxjs": "5.0.0-beta.6",
+    "typescript": "^1.8.10",
+    "typings": "^0.8.1"
+  },
+  "dependencies": {}
+}
