@@ -20,5 +20,21 @@
     "typescript": "^1.8.10",
     "typings": "^0.8.1"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themekit/ng2-router-active.git"
+  },
+  "keywords": [
+    "angular2",
+    "angular2-router",
+    "router",
+    "active",
+    "angular2-directive",
+    "directive"
+  ],
+  "bugs": {
+    "url": "https://github.com/themekit/ng2-router-active/issues"
+  },
+  "homepage": "https://github.com/themekit/ng2-router-active#readme"
 }
